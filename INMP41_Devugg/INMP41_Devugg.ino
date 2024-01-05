@@ -26,7 +26,7 @@ const char* password = "TMUA1443H";
 
 // Photo File Name to save in LittleFS
 #define FILE_PHOTO_PATH "/testingAudio.wav"
-#define BUCKET_PHOTO "/audioTTGO/testingAudio.wav"
+#define BUCKET_PHOTO "/audioRecordINMP41/testingAudio.wav"
 
 //Define Firebase Data objects
 FirebaseData fbdo;
@@ -39,8 +39,8 @@ bool taskCompleted = false;
 
 
 //comment the first line and uncomment the second if you use MAX9814
-//#define I2S_MODE I2S_MODE_RX
-#define I2S_MODE I2S_MODE_ADC_BUILT_IN
+#define I2S_MODE I2S_MODE_RX
+//#define I2S_MODE I2S_MODE_ADC_BUILT_IN
 
 const int record_time = 10;  // second
 
