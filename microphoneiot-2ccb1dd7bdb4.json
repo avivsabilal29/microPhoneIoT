@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "microphoneiot",
+  "private_key_id": "2ccb1dd7bdb4de024719bb3c19cc2c405a209590",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCgf9SmwKV2pGqC\ncY83qALnPtMmySvFqE9TKi1gRHogYM+IqxdJZzCFmBdWIslayMED9xY+6U6T7F1V\nnu/Xb4pKoh9PAQE5dvhs+efIMwf/+KHAyhlP4OCbCWGBjrL1QahsRaRfrsg0TJrt\n14LKM552pui0WP2dxq0NfnXXSgGhLCp0XiWKOcLUm5ISzcNzPlxQuWJ+BIauc+ZM\nfpAwXuEiuukB8ogsk/svdkakqUD9wQuserojkONR8XqHfc/qZy5LvFw5yJZ4QPPb\nbO+kqZn5vRJ5ToQYyOBrNtwRDOH9LBr9KRke2NomgQxnOU0g1tudSqme24SihVLh\nI0x7q1C9AgMBAAECggEANXYfGWR2OSzPJaA5+moGfYyZvQOphu9nbOZRsw1cOMjG\nmFmVKigrK3Tb4R85Pvo8ANwfFtmUCQXkmQ6WCYbn47BZCXHmPIP6gCJGKJOHCKaD\nCrrG76qSZlIbnpIv3i3+sgIInK6VlYYm3S66LCxBjnhObzRtVk7FegczrYDDRjHu\nT8zQVtciu3h0XfMRRKzYTroRqEP7qJaL6tQW8kuQVy+UouhL2mZh90s15fVPOLel\nh8S2w3jd48kjx6cWdsb4I6UbOvKmARec+GZkj4gqEmp/hQ74Y7cKIcR3j2y0/ELd\nhkGxP1871b0KfgAxl6L8yEgBj4WmIgPBGVnXzxCDqQKBgQDfMYEh6dh5ajcNfCmP\nP2qeje9fhpUgtWeIa/Mr2/9mEV6MnJ82+RIM9N5zGJ5jo10kfoJSGcjNOM6oskfj\n16b8GIi4Shm6qLD7npY2fjwR4IM/kHOsNKSOsu8CbuRFAA2atPuEy5HnQHri8sGe\n+wMa2T8hdV3oXwDR24s560j7pwKBgQC4FznL4WaLpHlk07jgQ4Q4hiH7nxybUuvm\nhvlGv+dFj39DM1WJUYCc5PLoVkWUXTHNbxlgXdhM7QfOSDH7A9c3llO3EvWPqKgg\nZAOsWFpT1hgNCKEVKxjIGyHQ0OY1062Ant+ByMCdI7KdwD083fsalGCZ7BjzNiZw\nx1wQTUFM+wKBgQCpSFfkDARHWps03CZ9YqEQbyDOeDolm9FR9GZ0rqDQnn3y8lwE\nCvd44kTSUSrY8bAUnOtlL+9QUDTWWJoUIp2heU5BUNqg64+I2OifnjEbcgi6Lmq9\ngxQIs4h6dPcnqnmnDHv0ZZ5dIlfSSEM4vLPHKl0qmGVIeL4bbYP0wxMQ4wKBgGDg\nGBIqc4RY8WkV4dxiq1nzfD6l5K/4WxvdO6D3rAT3FsmOYhz5Pu1RrmKFw+fngyXQ\nqVIFEKaqtcjgRS0LQF6IRVW6LG+FGbSx7RztAdvMdqulNt+k5k2nuYvh4sPAuTVO\nZeAufO40svJBD/jP+CxsmMlnbVnPzTrcLp6FiS+xAoGAI0VWfLDYoen400zXOqU9\nMl8ZA5ASTkVpfHi8er3aUROAa16MdWnKCXH6lh0Dk9jeXbG/sgY2T8pYVPf0FLUY\neB9i65NRW9pMwdRclkQ85fsi8flGhrOxP/IX+ODhmQtWOyZ80J47hwW7WswcJqCq\n8SoXLu+KRi7mHipWpI84cts=\n-----END PRIVATE KEY-----\n",
+  "client_email": "avivsabilalm@microphoneiot.iam.gserviceaccount.com",
+  "client_id": "112412196700443899106",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/avivsabilalm%40microphoneiot.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
